@@ -15,3 +15,4 @@ print(f"Goal\t: {goal}")
 print("-------------------------")
 
 print("Profile created sucessfully!")
+print("End")
